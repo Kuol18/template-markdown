@@ -1,48 +1,25 @@
-# (project name)
+                             KUOL SAMUEL THON
 
-<!-- describe your project -->
+> **MOTIVATION**
 
-## Getting Started
+I'm a self-motivated future Software Engineer at iTalanta Academy. What
+motivated me reflect back to Father of Artificial Intelligence John McCarthy
+theory of artificial intelligence.
 
-<!-- a guide to using this repository -->
+Artificial Intelligence is a way of making a computer, a computer-controlled
+robot, or a software think intelligently, in the similar manner the intelligent
+humans think.
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+John McCarthy not only based on AI discovery but also made tremendous moves on
+contribution of Technology to Science and how it could improves simple life.
 
-## Code Quality Checks
+> **EXPERIENCES**
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
+Beside my profession, I have been working as an Information Communication
+Technology Coach through Digital Literacy program implemented by UNHCR under
+Lutheran World Federation. Below photograph explain more of DL program:
 
-## Continuous Integration (CI)
+![image](https://scontent.fmba5-1.fna.fbcdn.net/v/t1.6435-9/p720x720/161724286_2913141985637682_1912939796053884755_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeGm5PejWNGs8S4mx9gKc_anNvfrgUnGuvw29-uBSca6_Mm-hrYLos0bGX2yfrUBNKXMlD2_y1xB8oX-oqn_myCS&_nc_ohc=PeElnb3hyWYAX_tFpz8&_nc_ht=scontent.fmba5-1.fna&oh=0e31a5fc590c8aac8d37b26635a37c85&oe=61C26832)
 
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
-
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
-
-## Repo Setup
-
-- Give each member _write_ access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- in the _Branches_ section of your repo's settings make sure:
-  - The repository
-    [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-    before pull requests can be merged.
-  - The `master`/`main` branch must "_Require status checks to pass before
-    merging_"
-  - The `master`/`main` branch must "_Require require branches to be up to date
-    before merging_"
+In nutshell, all this impacted me with strong and meaningful implications of
+Technology, ranging from advantageous impact to demerit part of it.
